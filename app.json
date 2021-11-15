@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wecare-app",
+    "slug": "wecare-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wecare-app"
+}
